@@ -32,8 +32,8 @@ Inside the images folder you will fine some screenshots of how my completed solu
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code Preview](https://github.com/DannyEnagu/single-page-price-component)
+- Live Site URL: [Live Site Preview](https://determined-pike-8ebb01.netlify.app/)
 
 ## My process
 
