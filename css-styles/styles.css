@@ -30,6 +30,7 @@ body {
   background-color: hsl(204, 43%, 93%);
   min-height: 100vh;
   font-size: 16px;
+  padding: 2rem;
 }
 a {
   text-decoration: none;
